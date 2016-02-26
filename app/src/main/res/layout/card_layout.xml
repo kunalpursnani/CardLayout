@@ -33,7 +33,7 @@
             android:textColor="#ffffffff"
             android:layout_gravity="center_horizontal|bottom"
             android:elegantTextHeight="true"
-            android:text="WaterFall Beauty"
+            android:text="MediApp"
             android:textSize="20dp" />
 
     </FrameLayout>
